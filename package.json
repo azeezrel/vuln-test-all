@@ -10,7 +10,7 @@
     "lodash": "4.17.10",
     "axios": "0.18.0",
     "minimist": "1.2.0",
-    "node-fetch": "2.6.0",
+    "node-fetch": "3.3.2",
     "serialize-javascript": "2.1.1",
     "moment": "2.19.3"
   }
