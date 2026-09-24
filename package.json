@@ -11,7 +11,7 @@
     "axios": "0.18.0",
     "minimist": "1.2.0",
     "node-fetch": "2.6.0",
-    "serialize-javascript": "2.1.1",
+    "serialize-javascript": "7.1.1",
     "moment": "2.19.3"
   }
 }
